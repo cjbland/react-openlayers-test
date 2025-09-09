@@ -1,5 +1,13 @@
 {
   "name": "@mytest/ol-test",
   "version": "0.0.1",
-  "private": true
+  "private": true,
+  "dependencies": {
+    "@mantine/core": "8.3.0",
+    "@mantine/hooks": "8.3.0",
+    "ol": "10.6.1",
+    "react": "19.1.1",
+    "react-dom": "19.1.1",
+    "react-openlayers": "10.5.0"
+  }
 }
